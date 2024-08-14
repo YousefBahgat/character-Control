@@ -7,4 +7,6 @@
 
 - The unity version used: 2017.4.36f1.
 
--  watch a screen capture from the GamePlay: https://drive.google.com/file/d/11ZRCEOlDzt9EBj4V-zKXtVhXFvKV5vbQ/view?usp=sharing  
+-  watch a screen capture from the GamePlay: https://drive.google.com/file/d/11ZRCEOlDzt9EBj4V-zKXtVhXFvKV5vbQ/view?usp=sharing
+
+-  A Compressed Version of the project: https://drive.google.com/file/d/1vUSl_SPjnYu0EmcCTzr0tNVBHUaan6QJ/view?usp=sharing
